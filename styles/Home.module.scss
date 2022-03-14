@@ -1,0 +1,7 @@
+@import "./variables.scss";
+
+h1 {
+  &.test {
+    color: $primary-light;
+  }
+}
